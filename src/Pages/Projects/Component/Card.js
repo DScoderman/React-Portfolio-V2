@@ -3,11 +3,9 @@ import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
-import img from '../../../Images/CodingDog.jpg';
 import { Button, CardActionArea, CardActions } from '@mui/material';
 
-// import CodingDog from '../../Images/Coding-Dog.jpg'
-import uuid from 'react-uuid';
+
 import { blue } from '@mui/material/colors';
 
 const ProjectCardComponent = ({ project }) => {
@@ -28,10 +26,7 @@ const ProjectCardComponent = ({ project }) => {
             
               component="img"
               height="140"
-             image={img}
-          
-             key="uuid()"
-              alt="Coding dog"
+             image={project.image}
             /> </a>
             <CardContent>
               <Typography gutterBottom variant="h5" component="div">
