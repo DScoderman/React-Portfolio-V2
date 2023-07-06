@@ -1,7 +1,19 @@
-const FooterComponent = () => {
-    return(
-        <footer></footer>
-    )
-}
+import { DiGithubBadge } from "react-icons/di";
+import { BiLogoLinkedinSquare } from "react-icons/bi";
 
-export default FooterComponent
+const FooterComponent = () => {
+  return (
+    <footer className="footer">
+      <div className="footerIcons">
+        <a href="https://github.com/DScoderman">
+          <DiGithubBadge />
+        </a>
+        <a href="https://www.linkedin.com/in/drew-senour/">
+          <BiLogoLinkedinSquare />
+        </a>
+      </div>
+    </footer>
+  );
+};
+
+export default FooterComponent;
