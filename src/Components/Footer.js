@@ -6,10 +6,10 @@ const FooterComponent = () => {
     <footer className="footer">
       <div className="footerIcons">
         <a href="https://github.com/DScoderman">
-          <DiGithubBadge />
+          <DiGithubBadge size={25}/>
         </a>
         <a href="https://www.linkedin.com/in/drew-senour/">
-          <BiLogoLinkedinSquare />
+          <BiLogoLinkedinSquare size={25}/>
         </a>
       </div>
     </footer>
