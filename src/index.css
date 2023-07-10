@@ -34,7 +34,14 @@ body h1 {
  display: flex;
   justify-content: center;
 }
-
+body h2 {
+  display: flex;
+   justify-content: center;
+}
+body h3 {
+  display: flex;
+   justify-content: center;
+}
 body section {
   display: flex;
   align-content: center;
@@ -66,4 +73,10 @@ footer {
 .footerIcons {
   display: flex;
   justify-content: flex-end;
+}
+
+.Contact {
+  display: flex;
+  justify-content: center;
+  size: 50px;
 }
