@@ -1,9 +1,7 @@
 
 import ButtonMailto from "./Component/Mailbutton"
 
-const styles = {
-    display: "Flex",
-}
+
 const ContactPage = () => {
     return (
         <>
