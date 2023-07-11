@@ -12,7 +12,7 @@ const ContactPage = () => {
             <ButtonMailto email="dsenour6@gmail.com" label="Send Email" />
           }
         </>
-    )
+    );
 }
 
 export default ContactPage

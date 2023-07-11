@@ -13,7 +13,7 @@ const MeInfoPage = () => {
             </Container>
             
         </>
-    )
+    );
 }
 
 export default MeInfoPage

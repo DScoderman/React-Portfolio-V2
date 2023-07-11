@@ -13,7 +13,7 @@ class Project {
         this.description = description
         this.websiteLink = websiteLink
         this.repoLink = repoLink
-    }
+    };
 }
 
 export const projectData = [

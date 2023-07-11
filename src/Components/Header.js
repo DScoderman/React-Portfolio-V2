@@ -13,7 +13,7 @@ const HeaderComponent = () => {
 </ul>
            
         </nav></header>
-    )
+    );
 }
 
 export default HeaderComponent
