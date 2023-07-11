@@ -6,7 +6,6 @@ import {
   DiHtml5,
   DiCss3,
   DiGit,
-  DiChrome,
   DiMongodb,
   DiBootstrap,
   DiHeroku,

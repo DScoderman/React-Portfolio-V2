@@ -1,5 +1,12 @@
 import React from 'react';
 
+import * as FontAwesomeIcon from "react-icons/fa";
+import {faPerson,
+  faFolderOpen,
+  faPhoneFlip,
+  faFile,
+}  from "react-icons/fa";
+
 // Here we are using object destructuring assignment to pluck off our variables from the props object
 // We assign them to their own variable names
 function NavTabs({ currentPage, handlePageChange }) {
