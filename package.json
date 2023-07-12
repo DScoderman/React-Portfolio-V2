@@ -2,7 +2,7 @@
   "name": "drew-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dscoderman.github.io/React-Portfolio/",
+  "homepage": "https://dscoderman.github.io/React-Portfolio-V2/",
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
