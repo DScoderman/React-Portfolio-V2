@@ -6,7 +6,7 @@ import Typography from '@mui/material/Typography';
 import { Button, CardActionArea, CardActions } from '@mui/material';
 
 
-import { blue } from '@mui/material/colors';
+// import { blue } from '@mui/material/colors';
 
 const ProjectCardComponent = ({ project }) => {
 
